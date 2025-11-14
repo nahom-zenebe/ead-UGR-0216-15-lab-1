@@ -19,12 +19,12 @@ cd ead-UGR-0216-15-lab-1/TodoApi
 dotnet build
 ```
 
-3. ** Run the project: **
+3. **Run the project:**
 
 ```bash
 dotnet run
 ```
-4. ** Access Swagger UI to explore the API endpoints: **
+4. **Access Swagger UI to explore the API endpoints:**
 
    ```bash
    http://localhost:5037/swagger
